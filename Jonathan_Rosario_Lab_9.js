@@ -5,6 +5,8 @@
 //Lab 9
 //Jonathan Rosario
 //This class is the best ever!!!
+//Stay positive even though its 10:10pm and you could be hanging out with a hot girl 8 years youger than you.
+//Code comes first!!! LOL
 
 //Problem 1
 var myNum1 = 5;
