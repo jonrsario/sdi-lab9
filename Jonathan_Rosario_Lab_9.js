@@ -4,7 +4,7 @@
 //Scalable Data Infrastructures
 //Lab 9
 //Jonathan Rosario
-
+//This class is the best ever!!!
 
 //Problem 1
 var myNum1 = 5;
