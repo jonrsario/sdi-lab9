@@ -45,4 +45,4 @@ console.log(nextWeek);
 
 var inBetween = nextWeek - today;
 
-console.log("Jessica Alba will be my wife in " + Math.ceil(inBetween/1000/60/60/24) + " days.");
+console.log("Jessica Alba will be my wife in " + Math.ceil(inBetween/1000/60/60/24) + " days. You watch!");
